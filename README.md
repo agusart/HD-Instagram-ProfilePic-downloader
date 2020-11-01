@@ -1,3 +1,3 @@
-# agusart-HD-Instagram-ProfilePic-downloader
+# HD Instagram ProfilePic Downloader
 run:
 ./insta-dp-downloader byagusb
